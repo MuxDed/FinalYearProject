@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\http_request"
+		},
+		{
+			"path": "..\\https_mbedtls"
+		},
+		{
+			"path": "..\\udp_client"
+		},
+		{
+			"path": "..\\http_file_serving"
+		},
+		{
+			"path": "..\\https_file_serving"
+		},
+		{
+			"path": "..\\udp_server"
+		},
+		{
+			"path": "..\\udp_multicast"
+		},
+		{
+			"path": "..\\http2_request"
+		},
+		{
+			"path": "..\\spiffs"
+		},
+		{
+			"path": "..\\http_file_serving_2"
+		},
+		{
+			"path": "..\\http_request_2"
+		}
+	],
+	"settings": {
+		"idf.gitPath": "C:\\Users\\micha\\.espressif\\tools\\idf-git\\cmd\\git.exe",
+		"idf.espIdfPathWin": "C:/Users/micha/devel/esp/esp-idf/",
+		"idf.pythonBinPathWin": "C:/Users/micha/devel/esp/.espressif/python_env/idf4.3_py3.8_env/Scripts/python.exe",
+		"idf.customExtraPaths": "C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2020r3-8.4.0\\xtensa-esp32s3-elf\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\riscv32-esp-elf\\1.24.0.123_64eb9ff-8.4.0\\riscv32-esp-elf\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\cmake\\3.16.4\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\openocd-esp32\\v0.10.0-esp32-20210401\\openocd-esp32\\bin;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\ninja\\1.10.2;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\idf-exe\\1.0.1;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\ccache\\3.7;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64;C:\\Users\\micha\\devel\\esp\\.espressif\\tools\\idf-python-wheels\\idf4.3_py3.9_2021-01-07",
+		"idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"C:\\\\Users\\\\micha\\\\devel\\\\esp\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.10.0-esp32-20210401/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+		"idf.portWin": "COM4",
+		"idf.flashType": "UART",
+		"files.associations": {
+			"esp_system.h": "c",
+			"sh2lib.h": "c",
+			"*.ipp": "cpp",
+			"cstring": "c",
+			"cerrno": "c"
+		}
+	}
+}
